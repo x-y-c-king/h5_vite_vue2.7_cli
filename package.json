@@ -1,0 +1,35 @@
+{
+  "name": "vue2.7",
+  "private": true,
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "axios": "^0.27.2",
+    "pinia": "^2.0.16",
+    "unplugin-vue-components": "^0.21.1",
+    "vant": "2.12.48",
+    "vue": "2.7.5",
+    "vue-router": "3.5.4",
+    "wnl-xdsdk": "^1.2.2"
+  },
+  "devDependencies": {
+    "@types/node": "^18.0.4",
+    "@vitejs/plugin-legacy": "^1.8.2",
+    "@vitejs/plugin-vue2": "^1.1.2",
+    "amfe-flexible": "^2.2.1",
+    "autoprefixer": "^10.4.7",
+    "node-sass": "^7.0.1",
+    "postcss": "^8.4.14",
+    "postcss-plugin-px2rem": "^0.8.1",
+    "postcss-pxtorem": "^6.0.0",
+    "sass": "^1.53.0",
+    "sass-loader": "^13.0.2",
+    "terser": "^5.14.2",
+    "vconsole": "^3.14.6",
+    "vite": "^2.9.9"
+  }
+}
