@@ -38,7 +38,6 @@ import { reactive, getCurrentInstance, onMounted } from "vue"
 import { Toast } from "vant"
 import { useStore } from "@/store/index"
 import { storeToRefs } from "pinia"
-import { device, xdJsbridge, HttpRequest } from 'wnl-xdsdk'
 
 const store = useStore()
 // const { name, counter, isAdmin } = storeToRefs(store)
@@ -67,7 +66,6 @@ const onAbout = () => {
 }
 
 onMounted(() => {
-    console.log(device)
 })
 </script>
 

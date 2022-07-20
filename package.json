@@ -13,8 +13,7 @@
     "unplugin-vue-components": "^0.21.1",
     "vant": "2.12.48",
     "vue": "2.7.5",
-    "vue-router": "3.5.4",
-    "wnl-xdsdk": "^1.2.2"
+    "vue-router": "3.5.4"
   },
   "devDependencies": {
     "@types/node": "^18.0.4",
